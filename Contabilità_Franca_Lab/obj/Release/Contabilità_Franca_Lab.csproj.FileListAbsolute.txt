@@ -1,0 +1,15 @@
+D:\Documenti\Visual Studio\contabilità_franca_lab\Contabilità_Franca_Lab\bin\Release\Contabilità_Franca_Lab.exe.config
+D:\Documenti\Visual Studio\contabilità_franca_lab\Contabilità_Franca_Lab\bin\Release\Contabilità_Franca_Lab.exe
+D:\Documenti\Visual Studio\contabilità_franca_lab\Contabilità_Franca_Lab\bin\Release\Contabilità_Franca_Lab.pdb
+D:\Documenti\Visual Studio\contabilità_franca_lab\Contabilità_Franca_Lab\obj\Release\Contabilità_Franca_Lab.csproj.ResolveComReference.cache
+D:\Documenti\Visual Studio\contabilità_franca_lab\Contabilità_Franca_Lab\obj\Release\Contabilità_Franca_Lab.aggiungi.resources
+D:\Documenti\Visual Studio\contabilità_franca_lab\Contabilità_Franca_Lab\obj\Release\Contabilità_Franca_Lab.concludi.resources
+D:\Documenti\Visual Studio\contabilità_franca_lab\Contabilità_Franca_Lab\obj\Release\Contabilità_Franca_Lab.gestisci_cronologia.resources
+D:\Documenti\Visual Studio\contabilità_franca_lab\Contabilità_Franca_Lab\obj\Release\Contabilità_Franca_Lab.Properties.Resources.resources
+D:\Documenti\Visual Studio\contabilità_franca_lab\Contabilità_Franca_Lab\obj\Release\Contabilità_Franca_Lab.rimuovi.resources
+D:\Documenti\Visual Studio\contabilità_franca_lab\Contabilità_Franca_Lab\obj\Release\Contabilità_Franca_Lab.csproj.GenerateResource.cache
+D:\Documenti\Visual Studio\contabilità_franca_lab\Contabilità_Franca_Lab\obj\Release\Contabilità_Franca_Lab.csproj.CoreCompileInputs.cache
+D:\Documenti\Visual Studio\contabilità_franca_lab\Contabilità_Franca_Lab\obj\Release\Contabilità_Franca_Lab.exe
+D:\Documenti\Visual Studio\contabilità_franca_lab\Contabilità_Franca_Lab\obj\Release\Contabilità_Franca_Lab.pdb
+D:\Documenti\Visual Studio\contabilità_franca_lab\Contabilità_Franca_Lab\obj\Release\Contabilità_Franca_Lab.csproj.AssemblyReference.cache
+D:\Documenti\Visual Studio\contabilità_franca_lab\Contabilità_Franca_Lab\obj\Release\Contabilità_Franca_Lab.main.resources
